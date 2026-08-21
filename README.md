@@ -1,185 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:1a1a2e&height=220&section=header&text=ASTROLENS&fontColor=e8e8f0&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Open-Source%20Astronomical%20Instrumentation%20%26%20Spectroscopy&descAlignY=58&descColor=9d9db8&descSize=16" width="100%" alt="header banner" />
+# Adrian Benedikt Matsch
 
-<h2>Adrian Benedikt Matsch</h2>
+### Astronomical Instrumentation • Spectroscopy • Astronomy & Astrophysics
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1300&color=8C8CB8&center=true&vCenter=true&width=680&lines=Founder+%40+AstroLens;Building+instruments+for+the+curious;Spectroscopy+%C2%B7+Optics+%C2%B7+Atmospheric+Analysis" alt="typing" />
+Research and development of astronomical instrumentation, optical spectroscopy systems, and scientific software.
 
-<br><br>
 
-<img src="https://img.shields.io/badge/-Aspiring%20Astrophysicist-14142b?style=for-the-badge&labelColor=14142b" />
-<img src="https://img.shields.io/badge/-Scientific%20Software%20Developer-1b1b3a?style=for-the-badge&labelColor=1b1b3a" />
-<img src="https://img.shields.io/badge/-Graphic%20Designer-14142b?style=for-the-badge&labelColor=14142b" />
-<img src="https://img.shields.io/badge/-Optical%20Instrumentation%20Enthusiast-1b1b3a?style=for-the-badge&labelColor=1b1b3a" />
 
-<br><br>
 
-<img src="https://img.shields.io/badge/status-building%20AstroLens-2e2e5c?style=flat-square&labelColor=0f0c29" />
-<img src="https://img.shields.io/badge/focus-spectroscopy%20%26%20optics-2e2e5c?style=flat-square&labelColor=0f0c29" />
+I am the founder of **AstroLens**, an open-source project focused on astronomical spectroscopy.
 
-</div>
+My work combines hardware development with scientific software engineering to design and characterize optical instruments, develop spectroscopic analysis pipelines, and process scientific datasets. Current projects include custom spectrometer development, fiber-coupled optical systems, and Python-based tools for spectroscopic data reduction, calibration, and visualization.
 
-<br>
+---
 
-```
-                                        .  *  .        .
-                    .        *                    .
-              *              ___                        *
-                             /   \
-                            | . . |          .
-                       .    | \_/ |    *
-                            /|     |\
-                       ____/ |  ¤  | \____        .
-                      |    \_______/    |
-                  *   |    |   |   |    |
-                      |    |   |   |    |    *
-                      |____|___|___|____|
-                           |       |
-                      .    |       |    .
-                           /_______\
-                        *              *      .
-              .    *              .        *
-```
-<p align="center"><sub>AstroLens — instrumentation for the open sky</sub></p>
+## Support & Connect
 
-<br>
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--4026--1532-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-4026-1532)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/astrolens)
 
-<div align="center">
+---
 
-──────────────────────────────────────────────
+# Tech Stack
 
-</div>
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=F73163)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-## About
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-Adrian works at the intersection of astronomy, astrophysics, spectroscopy, optics, scientific computing, atmospheric science, and data analysis. AstroLens exists to put that work in the open — raw signal in, calibrated science out.
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-- 🔭 &nbsp;Founder — AstroLens, open-source astronomical instrumentation
-- 🌈 &nbsp;Focus — spectral reduction, calibration, atmospheric correction
-- 🛠️ &nbsp;Building — hardware and software for low-cost spectroscopy
-- 📡 &nbsp;Currently exploring — telluric modeling and optical design
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio%20Paint-CFD3D3?style=for-the-badge&logo=ClipStudioPaint&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<br>
 
-<div align="center">
 
-──────────────────────────────────────────────
+---
 
-</div>
+# Projects
 
-## Current Research
+<p align="center">
+  <img src="astrolens-badge.svg" width="320">
+</p>
 
-<table>
-<tr><td>
+AstroLens develops open-source tools and instrumentation for astronomical spectroscopy. The project focuses on the design of custom optical systems, fiber-coupled spectrometers, and scientific software for spectroscopic calibration, data processing, and visualization. By combining optical engineering with computational analysis, AstroLens aims to make spectroscopy more accessible for experimental astronomy and scientific research.
 
-**🌌 AstroLens**
-Open-source platform for astronomical spectroscopy — acquisition, reduction, and analysis in one pipeline.
 
-</td></tr>
-<tr><td>
+# Publications
 
-**🔬 pySPEC**
-Python toolkit for spectral reduction, calibration, and line identification.
+*WIP*
 
-</td></tr>
-<tr><td>
-
-**🌍 Atmospheric Profile Generator**
-Models atmospheric transmission and absorption bands for ground-based spectral corrections.
-
-</td></tr>
-<tr><td>
-
-**✴️ Telluric Correction Suite**
-Removes atmospheric absorption from stellar and planetary spectra using synthetic transmission models.
-
-</td></tr>
-<tr><td>
-
-**🛰️ Optical Instrumentation**
-Design and fabrication of low-cost diffraction-grating spectrographs.
-
-</td></tr>
-<tr><td>
-
-**📈 Spectroscopy Tools**
-Wavelength calibration, continuum normalization, and spectral line analysis utilities.
-
-</td></tr>
-</table>
-
-<br>
-
-<div align="center">
-
-──────────────────────────────────────────────
-
-</div>
-
-## Technologies
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-14142b?style=for-the-badge&logo=python&logoColor=8C8CB8" />
-<img src="https://img.shields.io/badge/LaTeX-14142b?style=for-the-badge&logo=latex&logoColor=8C8CB8" />
-<img src="https://img.shields.io/badge/Fusion%20360-14142b?style=for-the-badge&logo=autodesk&logoColor=8C8CB8" />
-<img src="https://img.shields.io/badge/Adobe%20CC-14142b?style=for-the-badge&logo=adobecreativecloud&logoColor=8C8CB8" />
-<br>
-<img src="https://img.shields.io/badge/Blender-14142b?style=for-the-badge&logo=blender&logoColor=8C8CB8" />
-<img src="https://img.shields.io/badge/Git-14142b?style=for-the-badge&logo=git&logoColor=8C8CB8" />
-<img src="https://img.shields.io/badge/Linux-14142b?style=for-the-badge&logo=linux&logoColor=8C8CB8" />
-<img src="https://img.shields.io/badge/Optical%20Design-14142b?style=for-the-badge&logoColor=8C8CB8" />
-<img src="https://img.shields.io/badge/Scientific%20Computing-14142b?style=for-the-badge&logo=numpy&logoColor=8C8CB8" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-──────────────────────────────────────────────
-
-</div>
-
-## Publications
-
-Papers and conference contributions will be listed here as they're released.
-
-**ORCID** — `0000-0000-0000-0000` <sub>(placeholder)</sub>
-
-<br>
-
-## Writing
-
-Articles on spectroscopy, optics, astrophysics, atmospheric science, and instrumentation — [astrolens.dev/blog](https://astrolens.dev/blog)
-
-<br>
-
-<div align="center">
-
-──────────────────────────────────────────────
-
-</div>
-
-## Connect
-
-<div align="center">
-
-<a href="https://astrolens.dev"><img src="https://img.shields.io/badge/Website-14142b?style=for-the-badge&logo=firefox&logoColor=8C8CB8" /></a>
-<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-14142b?style=for-the-badge&logo=github&logoColor=8C8CB8" /></a>
-<a href="mailto:contact@astrolens.dev"><img src="https://img.shields.io/badge/Email-14142b?style=for-the-badge&logo=gmail&logoColor=8C8CB8" /></a>
-<a href="https://orcid.org/"><img src="https://img.shields.io/badge/ORCID-14142b?style=for-the-badge&logo=orcid&logoColor=8C8CB8" /></a>
-<a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-14142b?style=for-the-badge&logo=buymeacoffee&logoColor=8C8CB8" /></a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:302b63,100:0f0c29&height=140&section=footer" width="100%" alt="footer banner" />
-
-<sub>Clear skies.</sub>
-
-</div>
+---
